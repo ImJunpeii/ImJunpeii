@@ -1,4 +1,4 @@
-# 👋 I'm *Lehnz or Junpeii* ! 👋
+# 👋 I'm *Junpeii or Shiyo* ! 👋
 I'm a 15 year old developer who loves to code, especially making Discord bots !
 
 I also code other projects in different languages ( ex. Python, Javascript )
@@ -10,3 +10,4 @@ I also code other projects in different languages ( ex. Python, Javascript )
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
+<img width="1000" src="https://i.ibb.co/17SYSFW/Untitled.png">
