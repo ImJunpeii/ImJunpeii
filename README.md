@@ -2,10 +2,11 @@
 
 <div align="center">
   
-# 👋 I'm *Junpeii or Shiyo* ! 👋
-I'm a Sophomore Highschooler developer who loves to code, especially making Discord bots !
+# 👋 I'm *Shiyo* ! 👋
+I'm a Sophomore high schooler developer who loves to code, especially making Discord bots !
+(I'm now a junior !)
 
-I also code other projects in different languages ( ex. Python, Javascript )
+I also code other projects in different languages (e.g. Python, Javascript )
   
 ## Languages I code in:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -13,8 +14,4 @@ I also code other projects in different languages ( ex. Python, Javascript )
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-### My Socials
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/983270965305811004)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/ImJunpeii)
-  
 </div>
